@@ -7,4 +7,4 @@ Please join the disussion with feedback, ideas, etc on gitter: https://gitter.im
 
 Site: https://tmgox.com
 Twitter: https://twitter.com/tmgox
-OpenBazaar: Coming Soon
+OpenBazaar: https://openbazaar.com/store/QmfUt7KzuUdHeB2aV9YewLhybC1x8YxXC18yGcv2GCrLxX
